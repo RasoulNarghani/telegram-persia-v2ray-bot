@@ -150,13 +150,13 @@ async def buy_product(callback: CallbackQuery):
 {ton_amount} TON
 
 🟦 آدرس TON:
-`{TON_WALLET}`
+{TON_WALLET}
 
 🟩 آدرس USDT (TON):
-`{USDT_TON_WALLET}`
+{USDT_TON_WALLET}
 
 🟥 آدرس USDT (TRC20):
-`{USDT_TRC20_WALLET}`
+{USDT_TRC20_WALLET}
 
 توجه ❗️
 
