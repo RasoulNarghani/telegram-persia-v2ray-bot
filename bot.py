@@ -150,13 +150,13 @@ async def buy_product(callback: CallbackQuery):
 {ton_amount} TON
 
 🟦 آدرس TON:
-{TON_WALLET}
+`{TON_WALLET}`
 
 🟩 آدرس USDT (TON):
-{USDT_TON_WALLET}
+`{USDT_TON_WALLET}`
 
 🟥 آدرس USDT (TRC20):
-{USDT_TRC20_WALLET}
+`{USDT_TRC20_WALLET}`
 
 توجه ❗️
 
@@ -371,13 +371,10 @@ async def invite(callback: CallbackQuery):
     )
 
     text = f"""
-🎁 لینک دعوت اختصاصی شما:
+با دعوت دوستانت کانفیگ جایزه بگیر
+هر 10 دعوت موفق = 2 گیگابایت رایگان
 
 {invite_link}
-
-با دعوت دوستانت جایزه بگیر 😍
-
-هر 10 دعوت موفق = 2 گیگابایت رایگان
 """
 
     await callback.message.answer(text)
