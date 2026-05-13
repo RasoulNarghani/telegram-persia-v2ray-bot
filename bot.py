@@ -109,7 +109,7 @@ async def buy_product(callback: CallbackQuery):
   keyboard = InlineKeyboardMarkup(
     inline_keyboard=[
       [
-        InlineKeyboardMarkup(
+        InlineKeyboardButton(
           text="ارسال رسید 📤",
           callback_data="send_receipt"
         )
