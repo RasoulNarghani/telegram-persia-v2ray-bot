@@ -1,13 +1,26 @@
 BOT_TOKEN = "8657355671:AAHygoZiqu3sjnXrPDFXalPcs9z0xzvZ-Vo"
 ADMIN_ID = 1253158350
 BOT_USERNAME = "PersiaV2Ray_Bot"
-TON_WALLET = "`UQDGr0gCn3cc76U5DeF_XBpxgMagKzztzz6JApoxFVOrg9bY`"
-USDT_TON_WALLET = "`UQDGr0gCn3cc76U5DeF_XBpxgMagKzztzz6JApoxFVOrg9bY`"
-USDT_TRC20_WALLET = "`TMa9Yj48Ec1wFmWk1hE5UaEZaifn6Z1p7z`"
+TON_WALLET = "UQDGr0gCn3cc76U5DeF_XBpxgMagKzztzz6JApoxFVOrg9bY"
+TRC20_WALLET = "TMa9Yj48Ec1wFmWk1hE5UaEZaifn6Z1p7z"
 WELCOME_TEXT = """
-سلام، خوش اومدی به ربات خودت😘🎉
+سلام 👋
+به ربات پرشیا ویتوری خوش اومدید 😀🌹
 
-برای مشاهده محصولات از دکمه‌های زیر استفاده کن👇
+با این ربات میتونید با بهترین قیمت، کانفـیگ تهیه کنید. 💪
+
+همچنین با دعوت ۱۰ نفر از دوستانتون از ما، ۲ گیگابایت کانفیگ هدیه بگیرید. 🎁
+
+
+امکانات کانفیگ های ما:
+بدون ضریب ❌
+بدون محدودیت زمان ⏱️
+بدون محدودیت کاربر 👥
+بدون قطعی 🙅🏻‍♂
+با بالاترین سرعت ( در حد استارلینک ) 🚗
+و بهترن کیفیت اتصال 👌
+
+برای مشاهده محصولات از دکمه های زیر استفاده کنید 👇
 """
 PRODUCTS = {
   "1GB": {
